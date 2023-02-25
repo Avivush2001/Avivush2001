@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avivush2001, software engineering student
-- 👀 I’m interested in game development, building smartphone apps
-- 🌱 I’m currently learning Java
+- 👀 Interested in fullstack and software engineering
+- 🌱 Currently learning React
 - 💞️ I’m looking to collaborate on whatever helps me find my place in this world
 
 <!---
